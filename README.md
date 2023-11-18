@@ -1,6 +1,6 @@
 # Emotion-Detection-AI
 
-This project is built using Python, Flask, and JavaScript. It leverages Watson AI's Natural Language Processing (NLP) to classify emotions in text and aims to enhance AI's emotional awareness by accurately detecting emotions in textual data.
+This project is built using Python, Flask, and JavaScript. It leverages Watson AI's Natural Language Processing to classify emotions in text and aims to enhance AI's emotional awareness by accurately detecting emotions in textual data.
 
 
 ## Project highlights
